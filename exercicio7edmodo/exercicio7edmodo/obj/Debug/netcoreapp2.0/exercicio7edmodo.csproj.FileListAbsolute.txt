@@ -1,0 +1,11 @@
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\obj\Debug\netcoreapp2.0\exercicio7edmodo.csprojResolveAssemblyReference.cache
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\obj\Debug\netcoreapp2.0\exercicio7edmodo.csproj.CoreCompileInputs.cache
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\obj\Debug\netcoreapp2.0\exercicio7edmodo.AssemblyInfoInputs.cache
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\obj\Debug\netcoreapp2.0\exercicio7edmodo.AssemblyInfo.cs
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\bin\Debug\netcoreapp2.0\exercicio7edmodo.deps.json
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\bin\Debug\netcoreapp2.0\exercicio7edmodo.runtimeconfig.json
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\bin\Debug\netcoreapp2.0\exercicio7edmodo.runtimeconfig.dev.json
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\bin\Debug\netcoreapp2.0\exercicio7edmodo.dll
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\bin\Debug\netcoreapp2.0\exercicio7edmodo.pdb
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\obj\Debug\netcoreapp2.0\exercicio7edmodo.dll
+C:\Users\gmc_c\source\repos\exercicio7edmodo\exercicio7edmodo\obj\Debug\netcoreapp2.0\exercicio7edmodo.pdb

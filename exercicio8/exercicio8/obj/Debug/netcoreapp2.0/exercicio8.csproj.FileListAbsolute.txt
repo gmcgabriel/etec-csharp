@@ -1,0 +1,11 @@
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\bin\Debug\netcoreapp2.0\exercicio8.deps.json
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\bin\Debug\netcoreapp2.0\exercicio8.runtimeconfig.json
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\bin\Debug\netcoreapp2.0\exercicio8.runtimeconfig.dev.json
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\bin\Debug\netcoreapp2.0\exercicio8.dll
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\bin\Debug\netcoreapp2.0\exercicio8.pdb
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\obj\Debug\netcoreapp2.0\exercicio8.csprojResolveAssemblyReference.cache
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\obj\Debug\netcoreapp2.0\exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\obj\Debug\netcoreapp2.0\exercicio8.AssemblyInfoInputs.cache
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\obj\Debug\netcoreapp2.0\exercicio8.AssemblyInfo.cs
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\obj\Debug\netcoreapp2.0\exercicio8.dll
+C:\Users\gmc_c\source\repos\exercicio8\exercicio8\obj\Debug\netcoreapp2.0\exercicio8.pdb

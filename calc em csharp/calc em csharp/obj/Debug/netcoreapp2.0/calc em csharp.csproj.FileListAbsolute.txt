@@ -1,0 +1,11 @@
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\bin\Debug\netcoreapp2.0\calc em csharp.deps.json
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\bin\Debug\netcoreapp2.0\calc em csharp.runtimeconfig.json
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\bin\Debug\netcoreapp2.0\calc em csharp.runtimeconfig.dev.json
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\bin\Debug\netcoreapp2.0\calc em csharp.dll
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\bin\Debug\netcoreapp2.0\calc em csharp.pdb
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\obj\Debug\netcoreapp2.0\calc em csharp.csprojResolveAssemblyReference.cache
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\obj\Debug\netcoreapp2.0\calc em csharp.csproj.CoreCompileInputs.cache
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\obj\Debug\netcoreapp2.0\calc em csharp.AssemblyInfoInputs.cache
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\obj\Debug\netcoreapp2.0\calc em csharp.AssemblyInfo.cs
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\obj\Debug\netcoreapp2.0\calc em csharp.dll
+C:\Users\gmc_c\source\repos\calc em csharp\calc em csharp\obj\Debug\netcoreapp2.0\calc em csharp.pdb

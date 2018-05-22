@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercs", "exercs\exercs.csproj", "{4D6ACC62-0593-43CA-B103-1E2C2DDB5675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D6ACC62-0593-43CA-B103-1E2C2DDB5675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6ACC62-0593-43CA-B103-1E2C2DDB5675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6ACC62-0593-43CA-B103-1E2C2DDB5675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6ACC62-0593-43CA-B103-1E2C2DDB5675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF87D94-7755-49E7-8CB4-EFCC18CBD5A2}
+	EndGlobalSection
+EndGlobal

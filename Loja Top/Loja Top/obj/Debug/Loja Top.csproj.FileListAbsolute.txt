@@ -1,0 +1,11 @@
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\bin\Debug\Loja Top.exe.config
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\bin\Debug\Loja Top.exe
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\bin\Debug\Loja Top.pdb
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\obj\Debug\Loja Top.csprojResolveAssemblyReference.cache
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\obj\Debug\Loja_Top.frmLoadLoja.resources
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\obj\Debug\Loja_Top.Properties.Resources.resources
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\obj\Debug\Loja Top.csproj.GenerateResource.cache
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\obj\Debug\Loja Top.csproj.CoreCompileInputs.cache
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\obj\Debug\Loja Top.exe
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\obj\Debug\Loja Top.pdb
+C:\Users\gmc_c\source\repos\Loja Top\Loja Top\obj\Debug\Loja_Top.frmLojaBike.resources

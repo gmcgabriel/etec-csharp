@@ -1,0 +1,11 @@
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\obj\Debug\netcoreapp2.0\eleicoes2018.csprojResolveAssemblyReference.cache
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\obj\Debug\netcoreapp2.0\eleicoes2018.csproj.CoreCompileInputs.cache
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\obj\Debug\netcoreapp2.0\eleicoes2018.AssemblyInfoInputs.cache
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\obj\Debug\netcoreapp2.0\eleicoes2018.AssemblyInfo.cs
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\bin\Debug\netcoreapp2.0\eleicoes2018.deps.json
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\bin\Debug\netcoreapp2.0\eleicoes2018.runtimeconfig.json
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\bin\Debug\netcoreapp2.0\eleicoes2018.runtimeconfig.dev.json
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\bin\Debug\netcoreapp2.0\eleicoes2018.dll
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\bin\Debug\netcoreapp2.0\eleicoes2018.pdb
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\obj\Debug\netcoreapp2.0\eleicoes2018.dll
+C:\Users\gmc_c\source\repos\eleicoes2018\eleicoes2018\obj\Debug\netcoreapp2.0\eleicoes2018.pdb

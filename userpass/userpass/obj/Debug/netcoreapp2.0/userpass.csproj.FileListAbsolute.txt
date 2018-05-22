@@ -1,0 +1,11 @@
+C:\Users\gmc_c\source\repos\userpass\userpass\bin\Debug\netcoreapp2.0\userpass.deps.json
+C:\Users\gmc_c\source\repos\userpass\userpass\bin\Debug\netcoreapp2.0\userpass.runtimeconfig.json
+C:\Users\gmc_c\source\repos\userpass\userpass\bin\Debug\netcoreapp2.0\userpass.runtimeconfig.dev.json
+C:\Users\gmc_c\source\repos\userpass\userpass\bin\Debug\netcoreapp2.0\userpass.dll
+C:\Users\gmc_c\source\repos\userpass\userpass\bin\Debug\netcoreapp2.0\userpass.pdb
+C:\Users\gmc_c\source\repos\userpass\userpass\obj\Debug\netcoreapp2.0\userpass.csprojResolveAssemblyReference.cache
+C:\Users\gmc_c\source\repos\userpass\userpass\obj\Debug\netcoreapp2.0\userpass.csproj.CoreCompileInputs.cache
+C:\Users\gmc_c\source\repos\userpass\userpass\obj\Debug\netcoreapp2.0\userpass.AssemblyInfoInputs.cache
+C:\Users\gmc_c\source\repos\userpass\userpass\obj\Debug\netcoreapp2.0\userpass.AssemblyInfo.cs
+C:\Users\gmc_c\source\repos\userpass\userpass\obj\Debug\netcoreapp2.0\userpass.dll
+C:\Users\gmc_c\source\repos\userpass\userpass\obj\Debug\netcoreapp2.0\userpass.pdb

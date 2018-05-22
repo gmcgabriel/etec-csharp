@@ -1,0 +1,11 @@
+c:\users\gmc_c\source\repos\exerc9\exerc9\obj\Debug\netcoreapp2.0\exerc9.csprojResolveAssemblyReference.cache
+c:\users\gmc_c\source\repos\exerc9\exerc9\obj\Debug\netcoreapp2.0\exerc9.csproj.CoreCompileInputs.cache
+c:\users\gmc_c\source\repos\exerc9\exerc9\obj\Debug\netcoreapp2.0\exerc9.AssemblyInfoInputs.cache
+c:\users\gmc_c\source\repos\exerc9\exerc9\obj\Debug\netcoreapp2.0\exerc9.AssemblyInfo.cs
+c:\users\gmc_c\source\repos\exerc9\exerc9\bin\Debug\netcoreapp2.0\exerc9.deps.json
+c:\users\gmc_c\source\repos\exerc9\exerc9\bin\Debug\netcoreapp2.0\exerc9.runtimeconfig.json
+c:\users\gmc_c\source\repos\exerc9\exerc9\bin\Debug\netcoreapp2.0\exerc9.runtimeconfig.dev.json
+c:\users\gmc_c\source\repos\exerc9\exerc9\bin\Debug\netcoreapp2.0\exerc9.dll
+c:\users\gmc_c\source\repos\exerc9\exerc9\bin\Debug\netcoreapp2.0\exerc9.pdb
+c:\users\gmc_c\source\repos\exerc9\exerc9\obj\Debug\netcoreapp2.0\exerc9.dll
+c:\users\gmc_c\source\repos\exerc9\exerc9\obj\Debug\netcoreapp2.0\exerc9.pdb
